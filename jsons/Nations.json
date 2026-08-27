@@ -1,37 +1,34 @@
 [
 	{
-		"name": "Canada",
-		"leaderName": "Zyxxyz",
-		"adjective": ["canadian"],
-		"preferredVictoryType": "Scientific",
+		"name": "Canada", // Civ6
+		"leaderName": "Wilfrid Laurier",
+		"startBias": ["Tundra","Snow"],
+		"adjective": ["Canadian"],
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"declaringWar": "As an unstinting malignancy defines your relationship to Canada, we have no recourse than war.",
+		"attacked": "As we can reach no peaceful resolution with you, Canada must turn, with reluctance, to war.",
+		"defeated": "So ends our dream of a Canada that might have been. Our people are good-hearted. Rule with mercy,",
+		"introduction": "On behalf of the people of Canada, welcome. I am Prime Minister Laurier.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"neutralHello": "Canada commends you.",
+		"hateHello": "Negotiating with you tests the limits of human patience.",
+		"tradeRequest": "The people of Canada present gifts!",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Ottawa","Toronto","Fredericton","Winnipeg","Vancouver"]
+		"outerColor": [249,249,249],
+		"innerColor": [205,0,1],
+		"uniqueName": "The Last Best West",
+		"uniques": ["[+2 Food] from every [Camp] <in [Tundra] tiles>",
+			"[+2 Production] from [Mine] tiles [in all cities] <in [Tundra] tiles>",
+			"[+2 Production] from every [Lumber mill] <in [Tundra] tiles>",
+			"[+2 Food] from [Great Improvement] tiles [in all cities] <in [Tundra] tiles>",],
+		"cities": ["Ottawa","Toronto","Montréal","Quebec City","Hamilton",
+			"Winnipeg","Halifax","Saint John","Vancouver","Victoria",
+			"Kingston","Brantford","Windsor","Charlottetown","Calgary",
+			"Sherbrooke","Guelph","Peterborough","Valleyfield","Edmonton",
+			"Trois-Rivières","Stratford","Saint Catharines","Waterloo","Saint Hyacinthe",
+			"Saint John","Dawson City","Belleville","Chatham","Saskatoon",
+			"Moncton","Mississauga","Brockville","Regina","Red Deer",
+			"Brandon","Sault Sainte Marie","Lethbridge","Saint-Lin","Whitehorse","Thunder Bay"]
 	},
 	{
 		"name": "Cuba",
@@ -180,41 +177,67 @@
 		"cities": ["Panama City"]
 	},
 	{
-		"name": "The Cree",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "The Cree", // Civ6
+		"leaderName": "Poundmaker",
+		"adjective": ["Cree"],
+		
+		"declaringWar": "I do not care to inflict the terrors of war upon youâ€”but justice requires it.",
+		"attacked": "You could have found another way. Now, your regrets will be measured in blood.",
+		"defeated": "Had I wanted war, I would not be here now. You did not catch me. I gave myself up.",
+		"introduction": "I am Poundmaker, and I represent the Cree. May there always be peace between us.",
+		
+		"neutralHello": "Good, good.",
+		"hateHello": "Your word is worthless.",
+		"tradeRequest": "My people send you gifts. With these you will last through winter.",
+		
+		"outerColor": [1,42,108],
+		"innerColor": [70,175,10],
+		"uniqueName": "Nihithaw",
+		"uniques": ["Free [Worker] appears <upon discovering [Pottery] technology>",
+			"[+2 Gold] from each Trade Route",
+			"[-50]% Gold cost of acquiring tiles [in all cities]"],
+		"cities": ["Mikisiw-Wacîhk",
+			"Pihtokahanapiwiyin","Mistahi-Sipihk","Paskwaw-Askhik","Piyesiw-Awasis","Mistawasis",
+			"Makwa-Sakahikan","Ka-Peyakwaskonam","Ahtahkakoop","Wihkasko-Kiseyin","Chemawawin",
+			"Ka-kiwistahaw","Ka-ohpawakastahk","Kawacatoose","Kawawachikamach","Kinosew-Sakahikan",
+			"Maskotew","Missanabie","Moosomin","Natashquan","Nekaneet",
+			"Ochapowace","Okanese","Papewe","Peepeekisis","Posakanacihk",
+			"Tataskweyak","Wapi-maskwa","Waskahikanihk","Whapmagoostui"]
+	},
+	{
+		"name": "The Olmec", // Ancient Civilizations
+		"leaderName": "U Kix Chan",
+		"adjective": ["Olmec"],
+		"startBias": ["Jungle","Coast"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Oh mighty and righteous U Kix Chan, King of Palenque and son of the Lady White Quetzal, your people prostrate themselves in awe and reverence! A skilled and ingenious people, the Olmec emerged along the Coatzacoalcos river basin in what is today the southern Mexican Gulf Coast. Quick to exploit the natural wonders of their surroundings, they developed new technologies - boiling rubber from tree sap - and carved colossal monuments from the basalt boulders of the Tuxtlas Mountains. From this cradle, Mesoamerican civilization would flourish: as the Maya would rise in the Yucatan to the east and the Aztecs in the Valley of Mexico to the west, the true legacy of the Olmec would be the indelible mark left on these great empires to come.",
+		"startIntroPart2": "Ancient King, history has not been kind to your land. Foreign crowns have crossed the sea to kill your children and ravage their civilizations. The people of Mesoamerica now pray to their ancestors for guidance. Will you return to restore the glory of your culture and legacy? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "War! The Feathered Serpent demands sacrificial blood!",
+		"attacked": "Is it bravery or stupidity?",
+		"defeated":  "That's the greatest sacrifice I can offer You!",
+		"introduction":  "Were you send by the great Serpent?",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello, friend.",
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+		"neutralNo": ["No way.","Never!"],
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+		"hateHello": "Go on!",
+		"hateLetsHearIt": ["Speak!"],
+		"hateNo": ["I can't accept!"],
+		"hateYes": ["Let it be."],
+		
+		"afterPeace": "What such bloodhirsty beast might want?",
+		"tradeRequest": "What do you think?",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	},
+		"outerColor": [	91, 176, 156],
+		"innerColor": [ 40, 94, 68],
+		"uniqueName": "Feathered Serpent",
+		"uniqueText": "May buy National Wonders with [Faith].",
+		"uniques": ["May buy [National Wonder] buildings with [Faith] for [1] times their normal Production cost"],
+		"cities": ["La Venta",
+			"San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala",
+			"Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"
+	}
 ]
