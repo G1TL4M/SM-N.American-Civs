@@ -169,9 +169,10 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
+		"outerColor": [218,18,26],
+		"innerColor": [7,35,87],
+		"uniqueName": "Panama Canal",
+		"uniques": ["[+20]% [Gold] from Trade Routes"],
 		"cities": ["Panama City"]
 	},
 	{
