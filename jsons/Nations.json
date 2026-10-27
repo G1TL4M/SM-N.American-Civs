@@ -67,77 +67,75 @@
 	},
 	{
 		"name": "Mexico",
-		"leaderName": "Zyxxyz",
-		"adjective": ["mexican"],
-		"startBias": ["Snow"],
+		"leaderName": "Benito Juarez",
+		"adjective": ["Mexican"],
+		"startBias": ["Desert","Plains"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "",
+		"hateHello": "",
+		"tradeRequest": "",
+		"denounced": "",
+		"declaringfriendship": "",
 
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [0,104,69],
-		"innerColor": [101,58,30],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["Mexico City","Guadalajara","Tijuana"]
+		"outerColor": [12,82,56],
+		"innerColor": [249,24,30],
+		"favoredReligion": "Christianity",
+		"uniqueName": "Revolución",
+		"uniqueText": "+25% [Culture] for 12 turns after starting any policy tree",
+		"uniques": ["[+25]% [Culture] <for [12] turns> <after adopting [Tradition]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Liberty]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Honor]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Piety]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Commerce]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Rationalism]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Order]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Freedom]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Autocracy]>",
+					"[+25]% [Culture] <for [12] turns> <after adopting [Patronage]>",
+			        "[+25]% [Culture] <for [12] turns> <after adopting [Aesthetics]>",
+			        "[+25]% [Culture] <for [12] turns> <after adopting [Exploration]>",
+			        "[+25]% [Culture] <for [12] turns> <after adopting [Cooperation]>",
+			        "[+25]% [Culture] <for [12] turns> <after adopting [Conservation]>"]
+		"cities": ["Mexico City","Guadalajara","Puebla","Monterrey","Tampico","Mérida","Tehuacán","León","Toluca","Zacatlán",
+			"Huauchinango","Querétaro","Morelia","San Luis Potosí","Aguascalientes","Chalchicomula","Saltillo","Veracruz","Tacubaya","Torreón",
+			"Culiacán","Culiacán","Cholula","San Pedro"],
 	},
 	{
 		"name": "Navajo",
-		"leaderName": "Zyxxyz",
-		"adjective": ["navajo"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"leaderName": "Hastiin Daghaa",
+		"adjective": ["Navajo"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
 		
-		"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
 		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "Code Talkers",
-		"uniques": ["[-75]% enemy spy effectiveness [in all cities]"],
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"favoredReligion": "Wakan Tanka",
+		"outerColor": [255, 225, 196],
+		"innerColor": [173, 94, 17],
+		
+		"uniqueName": "Dine Bizaad",
+		"uniques": ["[+1 Faith] [in all cities]","May buy [Food] buildings with [Faith] [in all cities]","[Faith] cost of purchasing [Food] buildings [-35]%","[-75]% enemy spy effectiveness [in all cities]"],
+		"cities": ["Tseghahoodzani",
+			"Chinle","Cañon de Chelly","Navajo Springs","Kaibito","Lukachukai",
+			"Leupp","Ganado","Tohatchi","Reec Nos Pos","Shonto"]
 	},
 	{
 		"name": "Panama",
@@ -204,6 +202,65 @@
 			"Tataskweyak","Wapi-maskwa","Waskahikanihk","Whapmagoostui"]
 	},
 	{
+		"name": "The Inuit",
+		"leaderName": "Nakasuk",
+		"adjective": ["The Inuit"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [43, 43, 43],
+		"innerColor": [233, 237, 245],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Inuit Nunangat",
+		"uniques": ["[+1 Food] from every [Snow]", "[+1 Food] from every [Tundra]", "[+1 Science] from every [Atoll]"],
+		"cities": ["Iqaluit",
+			"Nunanik","Nuuk","Inuvik","Barrow","Kangerlussuaq","Anchorage","Iglulik","Juneau","Kagyrgyn","Sismiut","Tuktoyaktuk","Kodiak","Pagytkenay","Nome"]
+	},
+	{
+		"name": "The Mississippi",
+		"leaderName": "Tuskaloosa",
+		"adjective": ["Mississippi"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The Mississippians - named for the river near where their earthen mounds stand - leave no writing behind, but archaeology tells of a complex society, a political system where cities waxed and waned in influence, maize farming, and trade in copper, shells, and hides. But by 1400 CE, whether through natural or political means, the Mississippians had already faded into memory.",
+		"startIntroPart2": "Chief Tuskaloosa! You have fought against the spanish colonisers for your peoples freedom. Even when you were captured as a slave by roaming conquistadors, your bravery remained strong. You sacrificed yourself so your followers can live freely and not under a colonisers boot, but all was in vain. O Great Chief, the Mississipi are now divided, with many tribes vanishing without a trace. Can you reunite your people, bringing them back to their former glory? Can you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I shall idle no more! It is time to fight!",
+		"attacked": "Me and my people shall defend to the last man, woman and child. Your tyranny shall not reach our lands!",
+		"defeated": "If I shall die fighting for my peoples freedoms in flames, I shall die a noble death.",
+		"introduction": "I am Tuskaloosa, Chief of the Mississipi. Make your presence known to my people, stranger, and we shall live in peace.",
+		
+		"neutralHello": "The Mississipi welcome you.",
+		"hateHello": "I see you approach me?!",
+		"tradeRequest": "Trade has been good this year, so the Mississipi offer you this deal.",
+		"denounced": "Don't try to force my hand. The last person to insult me like that suffered a terrible fate, one I'm sure you don't want to face.",
+		"declaringfriendship": "You're not bad, not bad at all.",
+
+		"spyNames": ["Abit","Biisan","Chahta","Chashwi","Watonathi","Waahih","Chito","Chaliis","Chaan","Achaakatabi"],
+
+		"outerColor": [100,40,40],
+		"innerColor": [120,100,230],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Goose Societies",
+		"uniques": ["[+1 Food] from [resource] tiles [in all cities]"],
+		"cities": ["Cahokia","Coosa","Chickasaw","Alabama","Apalachee","Choctaw","Creek","Hitchiti","Houma","Kansa",
+			"Missouria","Mobilian","Natchez","Osage","Quapaw","Tunica","Yamasee","Yuchi","Quizquiz","Chucalisa",
+			"Nodana","Wapanocca","Chauga","Coste"]
+	},
+	{
 		"name": "The Olmec", // Ancient Civilizations
 		"leaderName": "U Kix Chan",
 		"adjective": ["Olmec"],
@@ -238,5 +295,158 @@
 		"cities": ["La Venta",
 			"San Lorenzo","Tres Zapotes","Izapa","Tzapotl","Tonala",
 			"Texpa","Tlapocoya","Xoc","Coatztitlan","Izacoya"]
+	},
+	{
+		"name": "The Republic of Pirates",
+		"leaderName": "Edward Teach",
+		"adjective": ["Pirate"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Ahoy, bucko! Ye’ve gone on account with those who ken no lord but the sea and the salt. Weigh anchor, then, an see if it be gold or Jack Ketch at the end of yer gangway. The writ’s been signed, an the devil’s afoot.",
+		"startIntroPart2": "Admiral of the Black, you know well that it is the name, not the gun, that is the deadliest bullet, and though you were born Edward Teach, it is the name Blackbeard that caused sailors to quail. Cast off now, as there are ships and caravans alike heavy with plunder. Prepare the Queen Anne’s Revenge again for war - there’s booty to be had!",
+		
+		"declaringWar": "Bring a spring on her cable, hearties! There's blood to be had!",
+		"attacked": "Damnation seize my soul if I give you quarter or take any from ye!",
+		"defeated": "This shall be written in the history books, about how I, the great King, have been deposed by a pathetic barbarian.",
+		"introduction": "Hark ye to the Admiral of the Black, the scourge of the seven seas - Edward Teach, Blackbeard in the flesh.",
+		
+		"neutralHello": "Good to see you, friend!",
+		"hateHello": "What do you want, fool?",
+		"tradeRequest": "How about this deal?",
+		"denounced": "You wouldn't be talking so calmly when you see your seas filled with my fleets!",
+		"declaringfriendship": "Shall we make it done handsomely?",
+
+		"spyNames": ["Edward","Mary","William","Charlotte","Charles","Jacquotte","John","Martha","Benjamin","Christina"],
+
+		"outerColor": [72,2,101],
+		"innerColor": [255,255,255],
+		"uniqueName": "Flying Gang",
+		"uniques": ["Comment [May capture killed Embarked and Water units with 50% chance]",
+					"Earn [250]% of the damage done to [Water] units as [Gold]",
+					"Cannot build [Settler] units <in [non-[Capital]] cities>"],
+		"cities": ["Nassau","Port Royal","Tortuga","Providence","Port-au-Prince","Charlotte Amalie","Newport","Havana","San Juan","Santo Domingo",
+			"Road Town","New Haven","Petit-Goâve","Île Sainte-Marie","Umhaille","Fort Saint Louis","Brigdetown","Île-à-Vache","Ocracoke","Eleuthera",
+			"St John's","Portobelo","Campeche","St George's"],
+	},
+	{
+		"name": "The Shawnee",
+		"leaderName": "Tecumseh",
+		"adjective": ["Shawnee"],
+		"startBias": ["River","Grassland","Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "In the Ohio Valley, the Shawnee made their stand on the world stage. The descendants of what archaeologists term the Fort Ancient culture, they built elaborate earthworks, cultivated maize, and built small cities surrounding a central council house, where public debate took place. When the newly-born United States began to expand, they fought battle after battle to keep their lands, and though they lost their Prophetstown, they remain.",
+		"startIntroPart2": "Cheif Tecumseh, you have devoted your life to protect your people from the westward expantion of the United States. You and your brother have unified groups of people that were thought to be impossible to unite. With your unbridled urge to defend the freedoms of all Native Americans, you were killed in the war of 1812, a conflict between two colonisers dividing your people. Now the Shawnee call out to you once more. Can you stop the expansion of foreign powers onto your land? Can you keep your people united against a common foe? Can you build a civilization that can stand the test of time?",
+		
+		"declaringWar": "We will drive you back to the sea, to the caves, to whatever place you have come from.",
+		"attacked": "Let it be taken, our homes and our land given to us by the Great Spirit? The places we bury the ones who have gone home? Never!",
+		
+		"defeated": "A death song has come to me and I am going to sing it. When I am done, I will go to where the snows of winter go, where you cannot reach.",
+		"introduction": "You see a star that crosses the night sky like a bolt of lightning? That is me, Tecumseh, the one who leaps great distances.",
+		
+		"neutralHello": "Good day, my friend.",
+		"hateHello": "Why do you approach me?",
+		"tradeRequest": "Let us assess this deal over these peace pipes.",
+		"denounced": "Sour words will not ruin the sweet freedom of the Shawnee",
+		"declaringfriendship": "Let us smoke together over these peace pipes!",
+
+		"spyNames": ["Kinwisiimo","Napiwesi","Napiyehaska","Natopesi","Piyecikapowi","Kitakimiyesi","Kokwetekwisiimo","Hakowesi","Haalakotaaka","Hacipiwasi"],
+		
+		"outerColor": [160,115,185],
+		"innerColor": [230,230,0],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Nepekifaki",
+		"uniques": ["[+2 Food] from every [River] <in cities with a [Water Mill]>",
+					"[-10]% [Food] <in cities without a [Water Mill]>"],
+		"cities": ["Cilakofa","Pikawiiki","Thuthy's Hotewe","Penfekim'teko","White Oak","Little Axe","Prophet's Town","Sekakwis","Wakacaalli","Yetakapewaki",
+			"Ikan'hatki","Wapa'konetta","Cornstalk's Town","Nonhelema's Town","Nepipemi Hotaapata","Saawanwa Hotewe","Wapatomica","Makacheki","Mawaskawewiikiwa","New Pekowiki",
+			"Chillicothe Old Town","Bluejacket's Town","Wicita","Eskalapia"],
+	},
+	{
+		"name": "The Shoshone",
+		"leaderName": "Pocatello",
+		"adjective": ["Shoshone"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Pocatello",
+
+		"startIntroPart1": "Blessings be upon you, wise and fearsome Chief Pocatello, revered leader of the Shoshone people. As the young chieftain of the Shoshone, you rose to face a wave of encroaching American settlements across the western United States. Forced to defend the Shoshone ancestral lands from a seemingly endless stream of new emigrants, your war band struck fear into those who would claim the sacred lands of your people. After years of strife, you skillfully avoided a direct conflict with the armies of the U.S. government, and negotiated a series of treaties in the hopes of establishing a lasting peace for the Shoshone.",
+		"startIntroPart2": "Most esteemed Pocatello, your people once again look to you for guidance. Will you conquer your enemies, driving them far from your lands? Or will you seek out peaceful diplomacy and trade? Will you build a civilization that stands the test of time?",
+		"declaringWar": "Shoshone!, We will kill the white man!",
+		"attacked": "I must make the foreigner go away!",
+		"defeated": "This will not be the end of my people, I assure you.",
+		"introduction": "I am Chief Pocatello. You have arrived in the thick of Shoshone land.",
+		"neutralHello": "Our time has arrived!",
+		"hateHello": "?",
+		"tradeRequest": "Would you listen to my proposal?",
+		"outerColor": [65,54,42],
+		"innerColor": [78,244,234],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Great Expanse",
+		"uniques": ["[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>","[-25]% Culture cost of natural border growth [in all cities]"],
+		"cities": ["Moson Kahni","Te-Moak","Agaidika","Goshute","Pohokwi","Washakie","Timbisha","Hukandeka","Duckwater","Tukudeka",
+			"Kuchundeka","Yomba","Kamudeka","Ely","Yambadeka","Nampa","Bannock","Yahandeka","Tetadeka","Deheyaeka",
+			"Pengwideka","Winnemucca","Skull Valley","Big Pine","Duck Valley"],
+
+		"civilopediaText": [
+			{"text": "From 'BNW'"}
+		]
+	},
+	{
+		"name": "The Sioux",
+        "leaderName": "Sitting Bull",
+        "adjective": ["Sioux"],
+        "startBias": ["Avoid [Coast]","Plains"],
+		
+        "startIntroPart1": "Proud Sitting Bull, Chief of the Hunkpapa Lakota, the Seven Council Fires gather to listen and honour your wisdom. Seasoned hunters, the Sioux followed the buffalo from the shores of Lake Superior to the Black Hills of the western Dakotas. With the introduction of the horse, they became fearless warriors, dominating the Great Plains and driving back the Kiowa and Pawnee. Your existance marked the peak of the united tribes led by you, for it crossed the borders of reservation, the symbol of tyranny and humiliation, and defeated the Americans under Little Bighorn, sending a message of liberty and freedom to the world. Alas, your people were fighting a losing battle, for the United States had grown too big, too fast. In just a few short years, even the promised reservations were reduced to mere fractions of their original size, and eventually you yourself fell victim of an assasination at the hands of the white man. Yet, the Sioux legacy survived and your people finally won their rights, inspired by your courage.",
+        "startIntroPart2": "Itancan, your enemies have sold your lands and slaughtered the buffalo, but the Great Spirit has allowed you to lead your people once again, as your courage and guidance are needed once more. Will you re-establish the ancestral hunting grounds and defend your people from foreign expansion? Can you build a civilization that will stand the test of time?",
+		
+        "declaringWar": "It seems that war has fallen on us. Let us see if you, at least, are a worthy enemy.",
+        "attacked": "You have no respect for our lands, nor for peace. If we must die, we will die defending our rights.",
+        "defeated": "I have failed once again. The Ghost Dance, however, will go on without me, devil.",
+        "introduction": "I am Sitting Bull, son of the Jumping Bull, chieftain of the Hunkpapa Lakota! Have you seen buffalos recently?",
+		
+        "neutralHello": "Welcome, friend.",
+        "hateHello": "State your business.",
+        "tradeRequest": "Each man is a good man in the eyes of the Great Spirit. Let us put our minds together at least this once.",
+		
+        "outerColor": [74,59,47],
+        "innerColor": [255,120,0],
+		"favoredReligion": "Wakan Tanka",
+        "uniqueName": "Dwellers of the Plains",
+        "uniques": ["[+15]% Strength <for [Military] units> <in [Plains] tiles>"],
+        "cities": ["Ihankthunwanna",
+			"Bdewekhanthunwan","Isanyathi","Sichangju","Oglala","Itazipcho",
+			"Assiniboine","Sisithunwan","Wahpekhute","Wahpethunwan","Hunkpapha",
+			"Mnikhowozu","Sihasapa","Oohenunpa","Mnicoujou","Winnebago",
+			"Brule","Anishinabe","Iowa","Pawnee","Omaha"],
+        "spyNames": ["Onatah","Oneida","Oshadagea","Otetiani","Genesee","Dadgayadoh","Otwtiani","Kateri","Onondakai","Honanyawus"]
+	},
+	{
+		"name": "Wabanaki",
+		"leaderName": "Henri Membertou",
+		"adjective": ["Wabanaki"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Hello.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 255, 255],
+		"innerColor": [58, 81, 196],
+		"favoredReligion": "Wakan Tanka",
+		"uniqueName": "Wabanaki Confederacy",
+		"uniques": ["[+20]% Production when constructing [Water] units [in all cities]","[Gold] cost of purchasing [Water] units [-50]% <during a Golden Age>"],
+		"cities": ["Panawamskek",
+			"Odanak","Sipayik","Eelsetkook","Kadesquit","Lakeland Ridges"]
 	}
 ]
